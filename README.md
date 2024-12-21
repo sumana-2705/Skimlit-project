@@ -1,2 +1,2 @@
 # Skimlit-project
-Developing an NLP model to classify abstract sentences into the role they play (e.g. objective, methods, results, etc) to enable researchers to skim through the literature and dive deeper when necessary
+Engineered an advanced NLP model to classify abstract sentences into their respective roles, such as objectives, methods, and results, facilitating researchers in efficiently skimming through literature and focusing on relevant sections. Experimented with five diverse modeling approaches, including a 1D Convolutional model, a Naive Bayes model with pretrained embeddings, a convolutional model with character embeddings, and a hybrid embedding layer combining pretrained token and character embeddings.
